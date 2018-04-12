@@ -1,8 +1,8 @@
 {
-  "name": "node-sheets-api",
+  "name": "google-sheets-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
     "api"
   ],
   "author": "Ishaan Rawat",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "googleapis": "^28.1.0"
   }
